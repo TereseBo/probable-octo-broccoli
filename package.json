@@ -1,0 +1,22 @@
+{
+  "name": "server1",
+  "version": "1.0.0",
+  "description": "Go to the NodeJS website and download NodeJS\r Make sure Node and NPM are installed and their PATHs defined\r Create a new project folder\r Start running NPM in your project folder (it runs in the background)\r Install any NPM packages we need\r Create an HTML file in the project folder (this is what the client will see)\r Create a Node/JavaScript file in the project folder (this is your server file)\r Run your server\r Visit your (local) website!",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/TereseBo/probable-octo-broccoli.git"
+  },
+  "author": "TereseBo",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/TereseBo/probable-octo-broccoli/issues"
+  },
+  "homepage": "https://github.com/TereseBo/probable-octo-broccoli#readme",
+  "dependencies": {
+    "express": "^4.18.1"
+  }
+}
